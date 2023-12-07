@@ -1,1 +1,0 @@
-# UAS-Pemrograman-komputer-Vika-Pratiwi-09011282328046
