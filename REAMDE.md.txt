@@ -1,0 +1,10 @@
+#Jelaskan Biodata Diri serta Ujian Apa
+##Biodata Diri
+Nama: Vika Pratiwi
+Nama panggilan: Vika
+Umur: 18 tahun
+NIM: 09011282328046
+Kelas: SK1A
+
+##Ujian Apa
+Saya sedang mengikuti ujian Pemrograman Komputer pada 7 Desember, 2023
